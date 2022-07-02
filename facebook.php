@@ -13,5 +13,4 @@ mail($recipient, $subject, $message ,$mailheader)
 or die("Error!");
 
 echo"message send";
-
 ?>
