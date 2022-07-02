@@ -12,7 +12,7 @@ $recipient = "dqutesalam@gmail.com";
 mail($recipient, $subject, $message ,$mailheader);
 or die("Error!");
 
-header('Location:mail.html');
+header('Location:indet.html');
 
 
 ?>
